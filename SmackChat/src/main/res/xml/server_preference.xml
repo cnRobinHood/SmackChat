@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue="47.112.27.122"
+        android:dialogTitle="@string/summary_server_address"
+        android:key="server_address"
+        android:summary="@string/summary_server_address"
+        android:title="@string/title_server_address" />
+</PreferenceScreen>

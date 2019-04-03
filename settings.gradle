@@ -1,0 +1,2 @@
+include ':library:cropImage', ':SmackChat'
+include ':library:memorizingTrustManager'
